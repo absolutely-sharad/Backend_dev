@@ -1,0 +1,14 @@
+{
+  "name": "myapi",
+  "version": "1.0.0",
+  "description": "creating objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sharad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.0.0-beta.2"
+  }
+}
